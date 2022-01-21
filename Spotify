@@ -3,15 +3,13 @@ $PSDefaultParameterValues['Stop-Process:ErrorAction'] = 'SilentlyContinue'
 
 write-host @'
 ***************** 
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+3BM
 ***************** 
 '@
 
 write-host @'
 ***************** 
-Author: @Nuzair46
+Author: @Devtec
 ***************** 
 '@
 
@@ -233,10 +231,7 @@ Start-Process -WorkingDirectory $SpotifyDirectory -FilePath $SpotifyExecutable
 Write-Host 'Done.'
 
 write-host @'
-***************** 
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+
 ***************** 
 '@
 
